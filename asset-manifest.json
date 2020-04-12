@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/starlight-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/starlight-react-app/static/js/main.f8c86de3.chunk.js",
+    "main.js.map": "/starlight-react-app/static/js/main.f8c86de3.chunk.js.map",
+    "runtime-main.js": "/starlight-react-app/static/js/runtime-main.104940db.js",
+    "runtime-main.js.map": "/starlight-react-app/static/js/runtime-main.104940db.js.map",
+    "static/js/2.d34efd8f.chunk.js": "/starlight-react-app/static/js/2.d34efd8f.chunk.js",
+    "static/js/2.d34efd8f.chunk.js.map": "/starlight-react-app/static/js/2.d34efd8f.chunk.js.map",
+    "index.html": "/starlight-react-app/index.html",
+    "precache-manifest.e6471da02f7d2df870239eee473962fe.js": "/starlight-react-app/precache-manifest.e6471da02f7d2df870239eee473962fe.js",
+    "service-worker.js": "/starlight-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/starlight-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d34efd8f.chunk.js.LICENSE.txt": "/starlight-react-app/static/js/2.d34efd8f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/starlight-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.104940db.js",
+    "static/js/2.d34efd8f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f8c86de3.chunk.js"
+  ]
+}
